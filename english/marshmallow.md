@@ -1091,3 +1091,5 @@ so lazy [here](lazy/lazy.md)
 [Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
 
 Click [here](walrus/walrus.md)
+
+Listen Pink Floyd and watch a Salvador Dalí's motion picture, [Enjoy!](https://www.youtube.com/watch?v=hc_f9VDVsNk)
